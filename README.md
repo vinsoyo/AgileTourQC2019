@@ -2,7 +2,7 @@
 
 ## Agile tour Québec 2019
 
-Voici les supports visuels utilisé lors de la conférence 
+Voici les supports visuels utilisés lors de la conférence 
 - [Support de présentation](./ATQ2019-DevOps-DetteTechnique.pdf)
 - [Flyers](./flyers.pdf)
 
