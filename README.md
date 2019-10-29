@@ -1,4 +1,4 @@
-# Le "DevOps" à la rescousse de votre dette technique
+# Le DevOps à la rescousse de votre dette technique
 
 ## Agile tour Québec 2019
 
